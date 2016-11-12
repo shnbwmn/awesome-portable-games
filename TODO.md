@@ -7,9 +7,9 @@
     * RTS
     * Simulation
     * TBS, etc
-   * Problem w/ Option 1: openttd/simytrans simulation or management??
-   * Problem w/ Option 2: duplicate categories (strategy > simulation | racing > simulation) 
+  * Problem w/ Option 1: openttd/simytrans simulation or management??
+  * Problem w/ Option 2: duplicate categories (strategy > simulation | racing > simulation) 
   * Option 3: Major categories like RTS, Simulation, TBS, etc (ala op 1)
-   * Subcategories: simulation > transport management, flight, vehicles, etc
+    * Subcategories: simulation > transport management, flight, vehicles, etc
    
    
