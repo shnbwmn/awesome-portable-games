@@ -5,7 +5,18 @@
 
 *More to come! It will take a while! :bowtie:*
 
+*See also:* [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable) for portable apps and more info on portability.
+
 Create a [pull request](https://github.com/shnbwmn/awesome-portable-games/pulls) to add links | Start an [issue](https://github.com/shnbwmn/awesome-portable-games/issues) for corrections or discussions | [Contribution Guidelines](https://github.com/shnbwmn/awesome-portable-games/blob/master/Contribute.md)
+
+**_Note on icons:_**
+> I consider TPFC and PA to be the foremost authorities on program portability. 
+
+* **[TPFC](http://www.portablefreeware.com/)** :package: - either a database entry or often a thread in the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
+* **[PortableApps](http://portableapps.com/)** :floppy_disk: - either packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), often in addition to native portability, or a link to PA forum.
+* **[yaP](http://rolandtoth.hu/yaP/)** :file_folder: - has a [yaP config](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138) available.
+* **Other** :gear: - portability instructions provided from the game site or another source.
+* **Commercial** :moneybag: - costs money, or compulsory donationware. I prefer to list freeware though as much as possible.
 
 ## Contents
 
