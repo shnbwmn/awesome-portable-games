@@ -5,9 +5,9 @@
 
 *More to come! It will take a while! :bowtie:*
 
-*See also:* [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable) for portable apps and more info on portability (definition, sites, tools, etc).
-
 Create a [pull request](https://github.com/shnbwmn/awesome-portable-games/pulls) to add links | Start an [issue](https://github.com/shnbwmn/awesome-portable-games/issues) for corrections or discussions | [Contribution Guidelines](https://github.com/shnbwmn/awesome-portable-games/blob/master/Contribute.md)
+
+**_See also:_** [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable) for portable apps and more info on portability (definition, sites, tools, etc).
 
 **_Note on icons:_**
 > I consider TPFC and PA to be the foremost authorities on portability. 
