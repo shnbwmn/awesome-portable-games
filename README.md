@@ -3,21 +3,11 @@
 
 > Curated list of awesome portable games.
 
-*More to come! It will take a while! :bowtie:*
+*More to come! It will take a while!*
 
-Create a [pull request](https://github.com/shnbwmn/awesome-portable-games/pulls) to add links | Start an [issue](https://github.com/shnbwmn/awesome-portable-games/issues) for corrections or discussions | [Contribution Guidelines](https://github.com/shnbwmn/awesome-portable-games/blob/master/Contribute.md)
+Create a [pull request](https://github.com/shnbwmn/awesome-portable-games/pulls) to add links | Start an [issue](https://github.com/shnbwmn/awesome-portable-games/issues) for corrections or discussions
 
-**_See also:_** [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable) for portable software and more info on portability (definition, sites, tools, etc).
-
-**_Note on icons:_**
-> I consider TPFC and PA to be the foremost authorities on portability. 
-
-* **[TPFC](http://www.portablefreeware.com/)** :package: - either a database entry or often a thread in the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
-* **[PortableApps](http://portableapps.com/)** :floppy_disk: - either packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), often in addition to native portability, or a link to PA forum.
-* **[yaP](http://rolandtoth.hu/yaP/)** :file_folder: - has a [yaP config](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138) available.
-* **[ThumbApps](https://sourceforge.net/projects/thumbapps/)** :cyclone: - TA PAF available (they package programs that PortableApps won't for licencing reasons).
-* **Other** :gear: - portability instructions provided from the game site or another source.
-* **Commercial** :moneybag: - costs money, or compulsory donationware. I prefer to list freeware though as much as possible.
+*See also:* [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable)
 
 ## Contents
 
@@ -25,14 +15,14 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable-games/pulls)
 * [*Simulation*](#simulation) 
 * [*TBS*](#tbs)
 
-### RTS
-* [OpenRA](http://www.openra.net/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=84047) [:gear:](https://github.com/OpenRA/OpenRA/wiki/Installation)
+## RTS
+* [**OpenRA**](http://www.openra.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84047) [*gh*](https://github.com/OpenRA/OpenRA/wiki/Installation)
 
-### Simulation
-* [OpenTTD](http://www.openttd.org/en/) - [:package:](https://www.portablefreeware.com/?id=2711) [:floppy_disk:](http://portableapps.com/apps/games/openttd_portable) - transport management
+## Simulation
+* [**OpenTTD**](http://www.openttd.org/en/) / [*tpfc*](https://www.portablefreeware.com/?id=2711) [*paf*](http://portableapps.com/apps/games/openttd_portable) / transport management
 
-### TBS
-* [Battle for Wesnoth](https://www.wesnoth.org/) - [:package:](https://www.portablefreeware.com/?id=673) [:floppy_disk:](http://portableapps.com/apps/games/wesnoth_portable)
+## TBS
+* [**Battle for Wesnoth**](https://www.wesnoth.org/) / [*tpfc*](https://www.portablefreeware.com/?id=673) [*paf*](http://portableapps.com/apps/games/wesnoth_portable)
 
 ## License
 
