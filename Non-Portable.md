@@ -3,10 +3,10 @@
 
 > All the awesome games that can't be added to [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games).
 
-## FPS
+## First-Person Shooters
 * [**RenegadeX**](https://renegade-x.com/) / [*reddit*](https://www.reddit.com/r/RenegadeX/), [*indiedb*](http://www.indiedb.com/games/renegade-x), [*moddb*](http://www.moddb.com/games/renegade-x)
 
-## RTS
+## Real-Time Strategy
 * [**0 A.D.**](https://play0ad.com/)
 
 
