@@ -15,13 +15,13 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable-games/pulls)
 * [*Sim*](#sim) 
 * [*TBS*](#tbs)
 
-## RTS
+## Real-Time Strategy
 * [**OpenRA**](http://www.openra.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84047), [*gh*](https://github.com/OpenRA/OpenRA/wiki/Installation)
 
-## Sim
+## Simulation
 * [**OpenTTD**](http://www.openttd.org/en/) / [*tpfc*](https://www.portablefreeware.com/?id=2711), [*paf*](http://portableapps.com/apps/games/openttd_portable) / transport management
 
-## TBS
+## Turn-Based Strategy
 * [**Battle for Wesnoth**](https://www.wesnoth.org/) / [*tpfc*](https://www.portablefreeware.com/?id=673), [*paf*](http://portableapps.com/apps/games/wesnoth_portable)
 
 ## License
