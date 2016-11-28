@@ -3,10 +3,13 @@
 
 > All the awesome games that can't be added to [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games).
 
-[RenegadeX](https://renegade-x.com/)
-  * [On Reddit](https://www.reddit.com/r/RenegadeX/)
-  * [On IndieDB](http://www.indiedb.com/games/renegade-x)
-  * [On ModDB](http://www.moddb.com/games/renegade-x)
+## FPS
+* [**RenegadeX**](https://renegade-x.com/) / [*reddit*](https://www.reddit.com/r/RenegadeX/), [*indiedb*](http://www.indiedb.com/games/renegade-x), [*moddb*](http://www.moddb.com/games/renegade-x)
+
+## RTS
+* [**0 A.D.**](https://play0ad.com/)
+
+
   
   
   
