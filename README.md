@@ -7,7 +7,7 @@
 
 Create a [pull request](https://github.com/shnbwmn/awesome-portable-games/pulls) to add links | Start an [issue](https://github.com/shnbwmn/awesome-portable-games/issues) for corrections or discussions
 
-*See also:* [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable)
+*See also:* [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable), [**Awesome Online**](https://github.com/shnbwmn/awesome-online)
 
 ## Contents
 
