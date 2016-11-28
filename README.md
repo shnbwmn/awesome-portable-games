@@ -16,13 +16,13 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable-games/pulls)
 * [*TBS*](#tbs)
 
 ## RTS
-* [**OpenRA**](http://www.openra.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84047) [*gh*](https://github.com/OpenRA/OpenRA/wiki/Installation)
+* [**OpenRA**](http://www.openra.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84047), [*gh*](https://github.com/OpenRA/OpenRA/wiki/Installation)
 
 ## Simulation
-* [**OpenTTD**](http://www.openttd.org/en/) / [*tpfc*](https://www.portablefreeware.com/?id=2711) [*paf*](http://portableapps.com/apps/games/openttd_portable) / transport management
+* [**OpenTTD**](http://www.openttd.org/en/) / [*tpfc*](https://www.portablefreeware.com/?id=2711), [*paf*](http://portableapps.com/apps/games/openttd_portable) / transport management
 
 ## TBS
-* [**Battle for Wesnoth**](https://www.wesnoth.org/) / [*tpfc*](https://www.portablefreeware.com/?id=673) [*paf*](http://portableapps.com/apps/games/wesnoth_portable)
+* [**Battle for Wesnoth**](https://www.wesnoth.org/) / [*tpfc*](https://www.portablefreeware.com/?id=673), [*paf*](http://portableapps.com/apps/games/wesnoth_portable)
 
 ## License
 
