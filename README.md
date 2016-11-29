@@ -11,9 +11,9 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable-games/pulls)
 
 ## Contents
 
-* [*RTS*](#real-time-strategy)
-* [*Sim*](#simulation) 
-* [*TBS*](#turn-based-strategy)
+* [*Real-Time Strategy*](#real-time-strategy)
+* [*Simulation*](#simulation) 
+* [*Turn-Based Strategy*](#turn-based-strategy)
 
 ## Real-Time Strategy
 * [**OpenRA**](http://www.openra.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84047), [*gh*](https://github.com/OpenRA/OpenRA/wiki/Installation)
