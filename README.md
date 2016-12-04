@@ -10,7 +10,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable-games/pulls)
 *See also:* [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable), [**Awesome Online**](https://github.com/shnbwmn/awesome-online)
 
 **_Tools:_**
-* [**GameSave Manager**](http://www.gamesave-manager.com/) / 
+* [**GameSave Manager**](http://www.gamesave-manager.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=63104), [*paf*](http://portableapps.com/node/33524), [*site*](http://www.gamesave-manager.com/?s=download&t=portable)
 
 ## Contents
 
