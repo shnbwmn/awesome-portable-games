@@ -9,6 +9,9 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable-games/pulls)
 
 *See also:* [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable), [**Awesome Online**](https://github.com/shnbwmn/awesome-online)
 
+**_Tools:_**
+* [**GameSave Manager**](http://www.gamesave-manager.com/) / 
+
 ## Contents
 
 * [*Real-Time Strategy*](#real-time-strategy)
