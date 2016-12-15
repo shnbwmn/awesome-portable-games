@@ -9,7 +9,9 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable-games/pulls)
 
 *See also:* [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable), [**Awesome Online**](https://github.com/shnbwmn/awesome-online)
 
-**_Tools:_**
+[![Controller](img/controller.jpg)](https://pixabay.com/en/yamaha-motorcycle-details-1653663/)
+
+#### **_Tools:_**
 * [**GameSave Manager**](http://www.gamesave-manager.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=63104), [*paf*](http://portableapps.com/node/33524), [*site*](http://www.gamesave-manager.com/?s=download&t=portable)
 
 ## Contents
@@ -33,4 +35,5 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable-games/pulls)
 
 To the extent possible under law, Shane Bowman has waived all copyright and related or neighbouring rights to this work.
 
+*Images courtesy [Pixabay](https://pixabay.com/), `CC0`*.
 
