@@ -17,12 +17,16 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable-games/pulls)
 ## Contents
 
 * [*Casual*](#casual)
+* [*First-Person Shooter*](#first-person-shooter)
 * [*Real-Time Strategy*](#real-time-strategy)
 * [*Simulation*](#simulation) 
 * [*Turn-Based Strategy*](#turn-based-strategy)
 
 ## Casual
 * [**PokerTH**](http://www.pokerth.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1979), [*paf*](http://portableapps.com/apps/games/pokerth_portable)
+
+## First-Person Shooter
+* [**Red Eclipse**](http://redeclipse.net/) / [*paf*](http://portableapps.com/node/25284), [*forum*](http://redeclipse.net/forum/viewtopic.php?f=4&t=929)
 
 ## Real-Time Strategy
 * [**OpenRA**](http://www.openra.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84047), [*git*](https://github.com/OpenRA/OpenRA/wiki/Installation)
