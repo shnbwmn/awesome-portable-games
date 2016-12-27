@@ -23,7 +23,8 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable-games/pulls)
 * [*Turn-Based Strategy*](#turn-based-strategy)
 
 ## Casual
-* [**PokerTH**](http://www.pokerth.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1979), [*paf*](http://portableapps.com/apps/games/pokerth_portable)
+* [**Lucas Chess**](http://www-lucaschess.rhcloud.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=22356), [*paf*](http://portableapps.com/apps/games/lucas-chess-portable)
+* [**PokerTH**](http://www.pokerth.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1979), [*paf*](http://portableapps.com/apps/games/pokerth_portable) / Texas Hold'em poker / singleplayer and online play available
 
 ## First-Person Shooter
 * [**Red Eclipse**](http://redeclipse.net/) / [*paf*](http://portableapps.com/node/25284), [*forum*](http://redeclipse.net/forum/viewtopic.php?f=4&t=929)
