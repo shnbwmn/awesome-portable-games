@@ -24,6 +24,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable-games/pulls)
 
 ## Casual
 * [**Lucas Chess**](http://www-lucaschess.rhcloud.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=22356), [*paf*](http://portableapps.com/apps/games/lucas-chess-portable)
+* [Magarena] [https://magarena.github.io/]
 * [**PokerTH**](http://www.pokerth.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1979), [*paf*](http://portableapps.com/apps/games/pokerth_portable) / Texas Hold'em poker / singleplayer and online play available
 
 ## First-Person Shooter
