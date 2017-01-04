@@ -13,5 +13,6 @@
     * Subcategories: simulation > transport management, flight, vehicles, etc
     
 - [ ] Add pics above categories like with awesome-portable, add Pixabay bit to end of licence (!)
+- [ ] XM Solitaire, PySolFC, SokobanP, PySolitaire, Aisleriot, Big Solitaires 3D, 
    
    
