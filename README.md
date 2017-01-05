@@ -11,6 +11,13 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable-games/pulls)
 
 [![Controller](img/controller.jpg)](https://pixabay.com/en/game-controller-joystick-joypad-1532747/)
 
+#### *Emulators:*
+
+[*frontends*](https://www.dosbox.com/wiki/DOSBoxFrontends)
+
+* [**D-Fend Reloaded**](http://dfendreloaded.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2246) / PAF version distributed on dev's site
+* [**DOSBox**](http://www.dosbox.com/) / [*tpfc*](https://www.portablefreeware.com/?id=687), [*paf*](http://portableapps.com/apps/games/dosbox_portable), [*pen*](https://pendriveapps.com/dosbox-dos-emulator/)
+
 #### *Tools:*
 * [**DxWnd**](https://sourceforge.net/projects/dxwnd/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2835)
 * [**GameSave Manager**](http://www.gamesave-manager.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=63104), [*paf*](http://portableapps.com/node/33524), [*site*](http://www.gamesave-manager.com/?s=download&t=portable)
